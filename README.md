@@ -50,8 +50,7 @@ U2Net路径：'./face_sod_u2net/ckpts/'
 ```
 
 ## 预训练权重
-跨模型防御场景下的权重为easy_ensemble.pth，以供想要使用这一项目的开发者进行测试。
-点击([easy_ensemble.pth](https://pan.baidu.com/s/1FPr7yH86ueoMnYCMTFdXWw?pwd=523z))
+跨模型防御场景下的权重为easy_ensemble.pth，以供想要使用这一项目的开发者进行测试,点击([easy_ensemble.pth](https://pan.baidu.com/s/1FPr7yH86ueoMnYCMTFdXWw?pwd=523z))即可下载
 
 
 ## 相关工作
